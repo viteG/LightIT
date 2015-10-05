@@ -1,2 +1,0 @@
-# LightIT
-LightIT

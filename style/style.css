@@ -1,0 +1,229 @@
+/* 
+    Created on : 24 вер 2015, 13:41:17
+    Author     : v
+*/
+header {
+    //width: 100%;
+    height: 70px;
+    background: #072B69;
+    max-width: 1000px;
+    min-width: 485px;
+    margin: auto;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+#pic {
+    display: inline;
+}
+#shortName {
+    display: inline;
+    color: #D9D8E4;
+    margin-left: 20px;
+}
+#iconSmall {
+    height: 40px;
+}
+#mainBody {
+    height: auto;
+    min-height: 1000px;
+    background: #b0e0e6;
+    
+    background-position: center;
+    background-size: cover;
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+#Thanks {
+    margin-top: 30%;
+    text-align: center;
+}
+#cabinetBody {
+    height: auto;
+    //min-height: 1000px;
+    background: #b0e0e6;
+    
+    background-position: center;
+    background-size: cover;
+    max-width: 1000px;
+    margin: auto;
+    margin-bottom: 70px;
+}
+#cabinetBody div {
+    margin-left: 15%;
+}
+.cabinetFormInput {
+    width: 200px;
+    height: 30px;
+    
+    border-radius: 5px;
+    display: block;
+    margin-left: 50px;
+    
+    
+}
+.cab_b {
+    display: inline;
+    margin: 5px auto;
+}
+#cab_b_del {
+    display: inline;
+    float: right;
+    margin-right: 5%;
+}
+#cabForm label{
+    margin-top: 5px;
+    
+}
+#wellcome {
+    text-align: center;
+    color: #2165DA;
+}
+#wellcome h1 {
+    font-family: 'Fjalla One', sans-serif; 
+}
+#wellcome h2 {
+    font-family: Poiret One;
+}
+#log_pass {
+    display: inline-block;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 7px;
+    padding: 15px;
+    clear: both;
+    position: absolute;
+    left: 50%;
+    margin-left: -110px;
+    margin-top: 50px;
+}
+#log_pass input[type="text"] {
+    border: 2px;
+    border-radius: 3px;
+    margin-bottom: 3px;
+    
+}
+#regForm *{
+    margin-left: 20px;
+    
+}
+#regForm {
+   
+}
+.regFormInput {
+    width: 200px;
+    height: 30px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    
+}
+
+#photo {
+    max-height: 500px;
+    display: block;
+}
+
+footer {
+    width: 100%;
+    height: 70px;
+    background: #072B69;
+    max-width: 1000px;
+    min-width: 485px;
+    position: fixed;
+    margin: 0% auto;
+    left: 0;
+    right: 0;
+    bottom: 0px;
+    
+}
+#contBtn {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 10px;
+    color: #0787F5;
+}
+#userInfo { 
+    float: right;
+    margin-top: 16px;
+    margin-right: 5px;
+   
+    display: inline-block;
+}
+
+#menu {
+    float: left;
+    margin-top: 16px;
+    margin-left: 5px;
+}
+#footerMenu {
+    font: 'Yanone Kaffeesatz', sans-serif, bold;
+    font-weight: 700;
+    font-size: 22px;
+    float: right;
+    display: inline-block;
+    margin-top: 18px;
+    margin-left: 5px;
+}
+#footerMenu * {
+    margin-left: 10px;
+}
+#copyright {
+    color: white;
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 5px;
+    position: absolute;
+}
+#resumeBody {
+    height: auto;
+    min-height: 1000px;
+    background: #b0e0e6;
+    
+    background-position: center;
+    background-size: cover;
+    max-width: 1000px;
+    margin: auto;
+}
+#cabinetDoneBody {
+    height: auto;
+    min-height: 1000px;
+    background: #b0e0e6;
+    
+    background-position: center;
+    background-size: cover;
+    max-width: 1000px;
+    margin: auto;
+}
+#myPhoto {
+   height: 500px;
+   margin-left: 50%;
+   
+}
+#address {
+    text-align: center;
+    
+        
+}
+#icon {
+    display: block;
+     margin-top: 50px;
+     margin-left: auto;
+     margin-right: auto;
+    height: 250px;
+    width: auto;
+}
+#contactBody {
+    height: auto;
+    min-height: 1000px;
+    background: #b0e0e6;
+    
+    background-position: center;
+    background-size: cover;
+    max-width: 1000px;
+    margin: auto;
+    
+}
+.cabdata {
+    font-family: 'Sigmar One', cursive;
+    font-size: 20px;
+}
